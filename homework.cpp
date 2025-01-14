@@ -14,7 +14,7 @@
 int main()
 {
     // Complete your homework here
-
+    
     
     return 0;
 }
